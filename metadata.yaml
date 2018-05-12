@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '2217'
     url: http://www.gutenberg.org/2009/agents/2217
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30319#Beyond-the-Frontier--A-Romance-of-Early-Days-in-the-Middle-West
 gutenberg_issued: '2009-10-24'
 gutenberg_type: Text
 identifiers:
